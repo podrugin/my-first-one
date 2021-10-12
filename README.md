@@ -1,5 +1,5 @@
 # my-first-one
 test repository
 test repository
-test repository. Changed localy
+This line was modified during conflick resolution
 test repository
